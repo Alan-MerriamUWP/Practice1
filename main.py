@@ -4,3 +4,6 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
+num = 5
+word = "Hello"
+print(word * num)
