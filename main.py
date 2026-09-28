@@ -4,6 +4,6 @@
 # that many times. The steps are in README.md.
 #
 # Write your code below this comment.
-num = 5
-word = "Hello"
-print(word * num)
+num = int(input("Enter a whole number: "))
+phrase = input("Enter a phrase: ")
+print(phrase * num)
